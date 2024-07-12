@@ -27,3 +27,7 @@ print(floorDiv)
 #Modulus
 mod = num1 % num2
 print(mod)
+
+#Exponential 
+expo = num1 ** num2
+print(expo)
