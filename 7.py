@@ -23,4 +23,16 @@ print(len(name))
 
 name1 = "kamal"
 print('len--', name1[-4:-2])
-  
+
+#string methods
+print(name.upper())
+print(name.lower())
+print(name.strip("y"))
+print(name.replace(" ", "-"))
+print(name.split(" "))
+print(name.capitalize())
+print(name.count("a"))
+print(name.endswith("y"))
+print(name.find("t"))
+print(name.islower())
+print(name.title())
